@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".denuevok">
+
+    <Button
+        android:id="@+id/postybtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Posty"
+        tools:layout_editor_absoluteX="43dp"
+        tools:layout_editor_absoluteY="101dp" />
+
+    <Button
+        android:id="@+id/lilpeepbtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Lil Peep"
+        tools:layout_editor_absoluteX="254dp"
+        tools:layout_editor_absoluteY="101dp" />
+
+    <Button
+        android:id="@+id/xxxbtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="XXXTENTACION"
+        tools:layout_editor_absoluteX="43dp"
+        tools:layout_editor_absoluteY="213dp" />
+
+    <Button
+        android:id="@+id/stanleebtn"
+        android:layout_width="wrap_content"
+        android:layout_height="44dp"
+        android:text="STAN LEE"
+        tools:layout_editor_absoluteX="254dp"
+        tools:layout_editor_absoluteY="217dp" />
+</LinearLayout>
